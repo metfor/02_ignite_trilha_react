@@ -1,13 +1,13 @@
 import React from "react";
 import { Container } from "./styles";
 import { Summary } from "../Summary";
-import { TransectionsTable } from "../TransectionsTable";
+import { TransactionsTable } from "../TransactionsTable";
 
 export function Dashboard(){
     return(
         <Container>
             <Summary/>
-            <TransectionsTable/>
+            <TransactionsTable/>
         </Container>
     )
 }
