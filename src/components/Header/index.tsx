@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+
 import logoImg from "../../assets/logo.svg";
 import { Container, Content } from "./styles";
 interface HeaderProps{
