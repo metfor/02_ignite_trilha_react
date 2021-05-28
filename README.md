@@ -1,3 +1,3 @@
 # 02_ignite_trilha_react
-Treinamento
-Carteira Digital
+
+Carteira Digital(Concluído)
